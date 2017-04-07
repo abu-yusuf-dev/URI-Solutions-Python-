@@ -1,0 +1,3 @@
+# URI-Solutions-Python-
+I have solved some of URI Problms.Here I have Shared.....
+I will try to Solved all of them in future :) 
